@@ -1,5 +1,5 @@
 You recently had a state of the art security system installed in your home. 
-The master control panel requires a series of bi?colored chips to be placed end to end in a specific sequence in order to gain access. 
+The master control panel requires a series of bi-colored chips to be placed end to end in a specific sequence in order to gain access. 
 The security provider split up the chips and gave a random number to each of your family members. 
 All of you must convene in order to assemble the chips and create the correct color combination. 
 The access panel has a channel for the security chips. 
@@ -30,12 +30,6 @@ You MAY modify Program.cs and add any amount of code among any number of files t
 
 You can assume the beginning marker is always Blue, and the ending marker is always Green.
 
-One must be blue at the beginning, one must be green at the end.
-
-Assume duplicate chips. Assume blue with other colors as well.
-
 You do not need to find ALL solutions. Any solution is acceptable, but the solution must use the most number of chips.
-
-Open-ended criteria. Doesn't need to be the max number.
 
 Asking questions is allowed and there are no tricks or gotchas that would trip you up. 
